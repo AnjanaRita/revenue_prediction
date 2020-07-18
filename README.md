@@ -1,4 +1,4 @@
-# MOVIE REVENUE PREDICTION
+# REVENUE PREDICTION
 
 1. you can find the analysis related to data in the `EDA.ipynb` notebook.
 2. you can find the feature engineering & modelling related work in `Feature Enginnering and modelling.ipynb` notebook.
